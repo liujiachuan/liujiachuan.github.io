@@ -1059,7 +1059,7 @@ ul.site-social a.dribble:hover {
 	width: 100%;
 	display: block;
 	position: absolute;
-	background-image: url('/wp-content/themes/wideeyecreative/images/footer-photo1.jpg') !important;
+	background-image: url('http://www.wideeyecreative.com/wp-content/themes/wideeyecreative/images/footer-photo1.jpg') !important;
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
 	-ms-background-size: cover !important;
@@ -1618,7 +1618,7 @@ ul.site-social a.dribble:hover {
 	background: rgba(255, 69, 95, 0.90);*/
 }
 #footer-work-with-us .wrap:before {
-	background-image: url('images/footer-photo1.jpg');
+	background-image: url('http://www.wideeyecreative.com/wp-content/themes/wideeyecreative/images/footer-photo1.jpg');
 	background-position: 50% 0;
 	background-repeat: no-repeat;
 	-ms-background-size: cover;
@@ -1647,16 +1647,16 @@ ul.site-social a.dribble:hover {
 
 }
 #footer-work-with-us .wrap.alternate:before {
-	background-image: url('images/footer-photo2.jpg');
+	background-image: url('http://www.wideeyecreative.com/wp-content/themes/wideeyecreative/images/footer-photo2.jpg');
 }
 body.home #footer-work-with-us .wrap:before {
-	background-image: url('images/footer-photo5.jpg');
+	background-image: url('http://www.wideeyecreative.com/wp-content/themes/wideeyecreative/images/footer-photo5.jpg');
 }
 body.page-id-177 #footer-work-with-us .wrap:before {
-	background-image: url('images/footer-photo3.jpg');
+	background-image: url('http://www.wideeyecreative.com/wp-content/themes/wideeyecreative/images/footer-photo3.jpg');
 }
 body.page-id-12 #footer-work-with-us .wrap:before {
-	background-image: url('images/footer-photo4.jpg');
+	background-image: url('http://www.wideeyecreative.com/wp-content/themes/wideeyecreative/images/footer-photo4.jpg');
 }
 
 #footer-work-with-us a {
@@ -2631,7 +2631,7 @@ img.iphone {
 	width: 100%;
 	display: block;
 	content: ' ';
-	background: url('images/x_graphic.png') no-repeat 0 0;
+	background: url('http://www.wideeyecreative.com/wp-content/themes/wideeyecreative/images/x_graphic.png') no-repeat 0 0;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-ms-background-size: cover;
